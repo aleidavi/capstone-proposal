@@ -1,5 +1,7 @@
 # capstone-proposal
-soflo-unit-rental-regulation aka SURR
+
+Title: SURR (sout florida unit rental registry)
+
 
 The purpose of this capstone project is to create a website where landlords, any rental-unit or rental property owners register all information regarding their rental properties.
 
